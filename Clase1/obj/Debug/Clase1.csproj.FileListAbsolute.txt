@@ -1,0 +1,6 @@
+C:\Users\Paola\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe
+C:\Users\Paola\source\repos\Clase1\Clase1\bin\Debug\Clase1.pdb
+C:\Users\Paola\source\repos\Clase1\Clase1\obj\Debug\Clase1.csprojResolveAssemblyReference.cache
+C:\Users\Paola\source\repos\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\Paola\source\repos\Clase1\Clase1\obj\Debug\Clase1.exe
+C:\Users\Paola\source\repos\Clase1\Clase1\obj\Debug\Clase1.pdb
